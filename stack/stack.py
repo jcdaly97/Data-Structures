@@ -11,6 +11,8 @@ return elements in Last In First Out order.
    Make sure the Stack tests pass.
 3. What is the difference between using an array vs. a linked list when 
    implementing a Stack?
+   
+   a linked list has no upper bounds with regards to size whereas an array does
 """
 class Stack:
     def __init__(self):
